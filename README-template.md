@@ -22,6 +22,7 @@ See hover and focus states for all interactive elements on the page.
 Screenshot
 
 Add a screenshot of your solution. You can use tools like Firefox's screenshot tool or FireShot for capturing your project.
+[./screenshot_1.png]
 
 Links
 Solution URL: [https://dgitial.github.io/social-link-profile/]
