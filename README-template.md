@@ -24,8 +24,8 @@ Screenshot
 Add a screenshot of your solution. You can use tools like Firefox's screenshot tool or FireShot for capturing your project.
 
 Links
-Solution URL: Add solution URL here
-Live Site URL: Add live site URL here
+Solution URL: [https://dgitial.github.io/social-link-profile/]
+Live Site URL: [https://dgitial.github.io/social-link-profile/]
 My Process
 Built with
 Semantic HTML5 markup
